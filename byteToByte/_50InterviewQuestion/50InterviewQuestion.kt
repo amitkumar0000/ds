@@ -20,7 +20,6 @@ class `50InterviewQuestion` {
             findMedian2()
 
             //2. 0-1 Knapsack
-            println("===== 50 Interview Question from https://www.byte-by-byte.com/wp-content/uploads/2019/01/50-Coding-Interview-Questions.pdf ====")
 
             //3. Matrix product
 
